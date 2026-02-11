@@ -1,23 +1,34 @@
 # Data-Analysis-Project-1
 This project is an interactive Power BI dashboard developed to analyse and visualize E-commerce business performance. The dashboard provides insights into sales, profit,products,regions and yearly trends to support business decision making and performance monitoring.
 
- -[Project Objectives]
- -[Dataset Used]
-  -[Questions the dashboard answers]
- -[Process]
- -[Dashboard]
- -[Project insights]
- -[Business Recommendation]
- -[Final Conclusion]
+
+ - (# Project Objectives).
+ 
+ - [Dataset Used].
+ 
+  - [Questions the dashboard answers].
+  
+ - [Process].
+ 
+ - [Dashboard].
+ 
+ - [Project insights].
+ 
+ - [Business Recommendation].
+ 
+ - [Final Conclusion]
  
 # E-C0mmerce Sales and Profit Analysis Dashboard(Power BI)
 
 # Project Objectives
+
+
 It helps stakeholders quickly answer questions such as:
 - Which region generates the highest revenue?
 - Which product changes across months and years?
 - Which product sells the most?
 - Which product category is most profitable?
+  
   It also helps in
   - Monittoring overall performance
   - Tracking sales and profit trends over time
@@ -26,8 +37,7 @@ It helps stakeholders quickly answer questions such as:
   - Detecting growth opportunities and weak areas
   - 
     # Dataset Used
-    [Power BI d [ecommerce_sales_data.csv](https://github.com/user-attachments/files/25231340/ecommerce_sales_data.csv)
-ata]
+     [ecommerce_sales_data.csv](https://github.com/user-attachments/files/25231340/ecommerce_sales_data.csv)
     
 # Questions the Dashboard Answers
 
@@ -49,6 +59,8 @@ ata]
 - Which products contribute most to yearly profit?
   
 # Process
+
+
 Data Preparation:
 - Cleaned raw sales data
 - Removed duplicates
@@ -69,13 +81,14 @@ Product Count
 Category Performance
 
 Step 4 – Dashboard Design
+
 Two pages were created:
 # Sales Dashboard
 - Regional Sales
 - Yearly Sales Trend
 - Product Sales Trend
 - Yearly Regional Sales
-- 
+  
  # KPI Cards:
 - Sum of Sales (11M)
 - Product Count (10)
