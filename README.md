@@ -2,19 +2,19 @@
 This project is an interactive Power BI dashboard developed to analyse and visualize E-commerce business performance. The dashboard provides insights into sales, profit,products,regions and yearly trends to support business decision making and performance monitoring.
 
  
- - [Project Objectives](#Project-Objective).
+ - [Project Objectives](#Project-Objectives).
  
  - [Dataset Used](#Dataset-used)
  
-- [Questions the dashboard answers](#Questions-the-dashboard-answers)
+- [Questions the Dashboard Answers](#Questions-the-Dashboard-Answers)
   
- - [Process](#Proces)
+ - [Process](#Process)
  
  - [Dashboard](#Dashboard)
  
  - [Project insights](#Project-insights)
  
- - [Business Recommendation](#Business-Recommendation)
+ - [Business Recommendations](#Business-Recommendations)
  
  - [Final Conclusion](#Final-Conclusion)
  
