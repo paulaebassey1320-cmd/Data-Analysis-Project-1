@@ -2,7 +2,7 @@
 This project is an interactive Power BI dashboard developed to analyse and visualize E-commerce business performance. The dashboard provides insights into sales, profit,products,regions and yearly trends to support business decision making and performance monitoring.
 
 
- - (# Project Objectives).
+ -  [Project Objectives].
  
  - [Dataset Used].
  
@@ -18,7 +18,8 @@ This project is an interactive Power BI dashboard developed to analyse and visua
  
  - [Final Conclusion]
  
-# E-C0mmerce Sales and Profit Analysis Dashboard(Power BI)
+# E-Commerce Sales and Profit Analysis Dashboard(Power BI)
+
 
 # Project Objectives
 
@@ -35,11 +36,14 @@ It helps stakeholders quickly answer questions such as:
   - Identifying high performance regions and product
   - Supporting data-driven business decisions
   - Detecting growth opportunities and weak areas
-  - 
+   
     # Dataset Used
+ 
+    
      [ecommerce_sales_data.csv](https://github.com/user-attachments/files/25231340/ecommerce_sales_data.csv)
     
 # Questions the Dashboard Answers
+This report was developed to answer the following key performance questions:
 
 # Sales Performance
 - What is the total sales value across all regions?
@@ -50,8 +54,9 @@ It helps stakeholders quickly answer questions such as:
 - How many products are being tracked?
  -What is the maximum quantity sold?
 - What is the overall sum of sales?
-- 
+ 
 # Profit Performance
+
 - Which region produces the highest profit?
 - How does yearly profit compare across 2022, 2023, and 2024?
 - Which product category generates the highest profit?
@@ -69,16 +74,19 @@ Data Preparation:
  
 Step 2 – Data Modeling
 Created relationships between:
-Products,Categories,Regions,Date table
+- Products
+- Categories
+- Regions
+- Date table
 
 Step 3 – Measures Created (DAX / Calculations)
-Total Sales
-Total Profit
-Yearly Sales
-Yearly Profit
-Sum of Quantity
-Product Count
-Category Performance
+- Total Sales
+- Total Profit
+- Yearly Sales
+- Yearly Profit
+- Sum of Quantity
+- Product Count
+- Category Performance
 
 Step 4 – Dashboard Design
 
@@ -95,16 +103,20 @@ Two pages were created:
 - Max Quantity (9)
 - 
 # Profit Dashboard
--Regional Profit
--Yearly Profit (Donut Chart)
--Monthly Profit Trend
--Profit by Product
--Profit by Category
--Year slicer (2022–2024)
+- Regional Profit
+- Yearly Profit (Donut Chart)
+- Monthly Profit Trend
+- Profit by Product
+- Profit by Category
+- Year slicer (2022–2024)
 
-# Dash Board  
+# Dash Board
+
 ![e-commerce sales update](https://github.com/user-attachments/assets/43b0617b-88e2-492e-b3c6-f612d8e7fe72)
+
+
 ![E-commerce sales profit](https://github.com/user-attachments/assets/a5cabd81-66db-4dce-bdce-925733b0fb1b)
+
 
 # Project Insights
 
@@ -161,11 +173,17 @@ Office: Lowest contributor, needs strategic review.
   # Final Conclusion
 
 The dashboard reveals that Electronics and the West region are the main revenue drivers of the business. Profit has steadily improved, peaking in 2024, with strong growth during the last quarter of the year.
+
 However, Office products and the North region underperform, presenting opportunities for improvement through targeted marketing, pricing strategies, and operational optimization.
+
 Overall, the dashboard provides a clear decision-support tool, enabling stakeholders to:
+
 ✔ Identify profitable regions
+
 ✔ Focus on top-performing products
+
 ✔ Optimize low-performing categories
+
 ✔ Plan seasonal sales strategies
 
 
